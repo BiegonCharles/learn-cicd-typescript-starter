@@ -1,4 +1,4 @@
-# learn-cicd-typescript-starter (Charles)
+# learn-cicd-typescript-starter (Charles Biegon)
 
 This repo contains the typescript starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
 
